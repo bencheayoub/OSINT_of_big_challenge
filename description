@@ -1,0 +1,3 @@
+- school : My friend sent me this screenshot of their drive to school. What was the birthday of the person whom their school is named after? Submit in `OMC{dd-mm-yyyy}` format. Example: `OMC{21-08-2017}`.
+- flight : I took this photo flying out of one of the most popular tourist destinations in the US. The highlighted (in yellow) part of the image includes a point with exact coordinates XX.XX00000, -XX.XX00000 where the X's are digits (example: 12.3400000, -67.8900000). Put only these 8 digits in the flag format to submit (example: OMC{12346789}).
+- mountain : For the flag, submit the name of the "road" on Google Maps where the photo was taken from, using all lowercase and underscores. Example: `OMC{mountain_trail}`
